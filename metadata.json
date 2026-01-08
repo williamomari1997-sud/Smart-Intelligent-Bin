@@ -1,0 +1,7 @@
+{
+  "name": "Copy of BinSmart - Intelligent Waste Management",
+  "description": "A comprehensive smart bin management application featuring real-time fill level monitoring, device health tracking, detailed waste analytics, and AI-powered recycling insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
